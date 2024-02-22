@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: mathiscool
+    env: docker
+    plan: free
